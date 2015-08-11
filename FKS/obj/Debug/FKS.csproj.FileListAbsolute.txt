@@ -1,0 +1,11 @@
+e:\documents\visual studio 2015\Projects\FKS\FKS\bin\Debug\FKS.exe.config
+e:\documents\visual studio 2015\Projects\FKS\FKS\bin\Debug\FKS.exe
+e:\documents\visual studio 2015\Projects\FKS\FKS\bin\Debug\FKS.pdb
+e:\documents\visual studio 2015\Projects\FKS\FKS\obj\Debug\FKS.Form1.resources
+e:\documents\visual studio 2015\Projects\FKS\FKS\obj\Debug\FKS.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\FKS\FKS\obj\Debug\FKS.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\FKS\FKS\obj\Debug\FKS.exe
+e:\documents\visual studio 2015\Projects\FKS\FKS\obj\Debug\FKS.pdb
+e:\documents\visual studio 2015\Projects\FKS\FKS\bin\Debug\WindowsInput.dll
+e:\documents\visual studio 2015\Projects\FKS\FKS\bin\Debug\WindowsInput.xml
+e:\documents\visual studio 2015\Projects\FKS\FKS\obj\Debug\FKS.csprojResolveAssemblyReference.cache
