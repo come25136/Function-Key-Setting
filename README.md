@@ -9,10 +9,10 @@ MITライセンス
   
 [/FKS/KeyboardHook3.cs](https://github.com/homebox25136/Function-Key-Setting/blob/master/FKS/KeyboardHook3.cs)は  
 [ぬるりことNullReferenceExceptionに怯えながら日々書き連ねる.NETのコード片(主にC#)  
-グローバルフック・ザ・キーボード](http://hongliang.seesaa.net/article/7539988.html)を使っています
+グローバルフック・ザ・キーボード](http://hongliang.seesaa.net/article/7539988.html)を使わせて頂いています。
 
 #お問い合わせ
 homebox25136+fks@gmail.com  
 または  
-Twitter: @come25136  
+Twitter: [@come25136  ](https://twitter.com/come25136)
 どちらも祝日対応です。
