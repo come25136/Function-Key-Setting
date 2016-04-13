@@ -25,25 +25,25 @@ namespace FKS.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Ctrl+WindwosKey+LeftKey")]
-        public string F11 {
+        [global::System.Configuration.DefaultSettingValueAttribute("F9")]
+        public string Leftkey {
             get {
-                return ((string)(this["F11"]));
+                return ((string)(this["Leftkey"]));
             }
             set {
-                this["F11"] = value;
+                this["Leftkey"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string F12 {
+        [global::System.Configuration.DefaultSettingValueAttribute("F10")]
+        public string Rightkey {
             get {
-                return ((string)(this["F12"]));
+                return ((string)(this["Rightkey"]));
             }
             set {
-                this["F12"] = value;
+                this["Rightkey"] = value;
             }
         }
     }

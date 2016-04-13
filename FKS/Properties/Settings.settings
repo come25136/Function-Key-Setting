@@ -2,11 +2,11 @@
 <SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FKS.Properties" GeneratedClassName="Settings">
   <Profiles />
   <Settings>
-    <Setting Name="F11" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Ctrl+WindwosKey+LeftKey</Value>
+    <Setting Name="Leftkey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F9</Value>
     </Setting>
-    <Setting Name="F12" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+    <Setting Name="Rightkey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F10</Value>
     </Setting>
   </Settings>
 </SettingsFile>
