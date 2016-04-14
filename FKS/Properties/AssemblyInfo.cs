@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Function Key Setting")]
-[assembly: AssemblyCopyright("Copyright © 2015-2016 @come25136")]
+[assembly: AssemblyCopyright("Copyright © 2015-2016 こめ")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
