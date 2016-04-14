@@ -31,7 +31,7 @@ namespace FKS
 
         private void keyboardHook1_KeyboardHooked(object sender, HongliangSoft.Utilities.Gui.KeyboardHookedEventArgs e)
         {
-            Console.WriteLine(e.KeyCode);
+            //Console.WriteLine(e.KeyCode);
 
             a = e.KeyCode.ToString();
             if (c != 1)
@@ -76,6 +76,7 @@ namespace FKS
         private void ExitToolStripMenuItem_Click(object sender, EventArgs e)
         {
             flag = 1;
+            Properties.Settings.Default.Save();
             Application.Exit();
         }
 
@@ -99,6 +100,7 @@ namespace FKS
                 e.Cancel = true;
                 c = 0;
                 this.Hide();
+
             }
         }
 
