@@ -12,7 +12,7 @@ MITライセンス
 グローバルフック・ザ・キーボード](http://hongliang.seesaa.net/article/7539988.html)を使わせて頂いています。
 
 #お問い合わせ
-homebox25136+fks@gmail.com  
+come25136+fks@gmail.com  
 または  
 Twitter: [@come25136  ](https://twitter.com/come25136)
 どちらも祝日対応です。
